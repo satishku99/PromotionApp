@@ -1,0 +1,7 @@
+C:\Users\satm2\source\repos\SKUPromotionsApp\SKUPromotionApp\obj\Debug\SKUPromotionApp.csprojAssemblyReference.cache
+C:\Users\satm2\source\repos\SKUPromotionsApp\SKUPromotionApp\obj\Debug\SKUPromotionApp.csproj.CoreCompileInputs.cache
+C:\Users\satm2\source\repos\SKUPromotionsApp\SKUPromotionApp\bin\Debug\SKUPromotionApp.exe.config
+C:\Users\satm2\source\repos\SKUPromotionsApp\SKUPromotionApp\bin\Debug\SKUPromotionApp.exe
+C:\Users\satm2\source\repos\SKUPromotionsApp\SKUPromotionApp\bin\Debug\SKUPromotionApp.pdb
+C:\Users\satm2\source\repos\SKUPromotionsApp\SKUPromotionApp\obj\Debug\SKUPromotionApp.exe
+C:\Users\satm2\source\repos\SKUPromotionsApp\SKUPromotionApp\obj\Debug\SKUPromotionApp.pdb
